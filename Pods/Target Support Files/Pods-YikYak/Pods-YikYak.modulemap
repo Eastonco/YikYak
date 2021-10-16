@@ -1,0 +1,6 @@
+framework module Pods_YikYak {
+  umbrella header "Pods-YikYak-umbrella.h"
+
+  export *
+  module * { export * }
+}
