@@ -25,7 +25,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-I was always a huge fan of YikYak before it was deleted and I wanted to recreate it. The project is powered by Firebase and was create as the final project for [Cpts 479](https://github.com/eastonco.CS479) at Washington State University.
+I was always a huge fan of YikYak before it was deleted and I wanted to recreate it. The project is powered by Firebase and was create as the final project for [Cpts 479](https://github.com/eastonco/CS479) at Washington State University.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
