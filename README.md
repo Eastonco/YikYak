@@ -59,9 +59,8 @@ Make sure to open the .xcodeworkspace file for the project otherwise the pods wi
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [Swift](https://developer.apple.com/swift/) - Server Framework
-- [FireBase](https://firebase.google.com/) - Database & Auth
-
+- [Swift](https://developer.apple.com/swift/) - The language used for the project.
+- [FireBase](https://firebase.google.com/) - Database & Authentication.
 
 
 ## ✍️ Authors <a name = "authors"></a>
